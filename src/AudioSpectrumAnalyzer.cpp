@@ -2,7 +2,7 @@
 #include "fftw3.h"
 #include "common.h"
 #include <vector>
-#include <corecrt_math_defines.h>
+#include <cmath>
 #include <sstream>
 #include <iomanip>
 

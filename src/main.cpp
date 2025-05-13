@@ -162,7 +162,7 @@
 */
 /******************************************/
 
-#include "RtAudio.h"
+#include "rtaudio/RtAudio.h"
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
